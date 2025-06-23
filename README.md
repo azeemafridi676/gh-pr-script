@@ -43,10 +43,8 @@ You must be authenticated for `gh pr create` to work.
 ### Step 1: Clone this repository
 
 ```bash
-git clone https://github.com/<your-username>/pr-script.git
+https://github.com/azeemafridi676/script-to-automate-GitHub-PR-using-a-single-pr-command..git
 ```
-
-Replace `<your-username>` with your actual GitHub username.
 
 ### Step 2: Make the script executable
 
