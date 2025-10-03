@@ -1,1 +1,1 @@
-line from MAIN branch
+line from CONFLICT branch
